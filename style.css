@@ -2,6 +2,13 @@ img{
 width: 200px;
 
 }
+
+body{
+background-color: rgb(192, 192, 58);
+color: aquamarine;
+font-size: 15pt;
+}
+
 a{
     width: 20px;
     height:10px;
@@ -10,4 +17,3 @@ a{
     margin: 10px;
     padding: 10px;
 }
-
