@@ -20,5 +20,6 @@ a{
 
 .primeiro_paragrafo{
     border: 2px solid blue;
-    border-radius: 5px;
+    border-radius: 10px;
+    width: 50%;
 }
